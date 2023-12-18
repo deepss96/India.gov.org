@@ -1,0 +1,30 @@
+[
+    {
+      "name":"hopital" ,
+      "location":"page-one.html"
+    },    
+    {
+        "name":"Top ten hospital in world" ,
+        "location":"page-one.html"
+      },     
+      
+    {
+        "name":"Best hospital in world" ,
+        "location":"page-one.html"
+      },
+      
+    {
+        "name":"New hospital in world" ,
+        "location":"page-one.html"
+      },
+      
+      {
+        "name":"Cancer hospital in world" ,
+        "location":"page-one.html"
+      },
+      
+    {
+        "name":"hospital in world 2020" ,
+        "location":"page-one.html"
+      }
+]
